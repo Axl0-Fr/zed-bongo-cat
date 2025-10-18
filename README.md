@@ -1,2 +1,17 @@
-# zed-bongo-cat
-Adds a small Bongo Cat icon to your Zed statusbar!
+
+# Zed - Bongo Cat 
+
+![bongocat](https://github.com/kitgore/BongoCat/assets/87792049/cd430b3e-968b-4e87-9c11-2aa2765d99de)
+(blatently stolen from [BongoCat](https://github.com/kitgore/BongoCat/tree/main) for VSCode)
+
+## what it does
+
+Adds a tiny bongo cat to your status bar :3
+
+Use `Toggle Bongo Cat` command to remove from status bar
+
+<br/>
+ 
+<img src="https://github.com/kitgore/BongoCat/assets/87792049/0c513230-6c48-40f7-9eb0-8a46a12c16d5" width="130">
+
+enjoy! ✨
